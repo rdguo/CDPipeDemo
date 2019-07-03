@@ -1,0 +1,32 @@
+{
+  "name": "CDPipeDemo",
+  "version": "0.0.1",
+  "description": "A new PipeAnalysis system version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdguo/PipeAnalysis.git"
+  },
+  "keywords": [
+    "gis"
+  ],
+  "author": "gr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdguo/PipeAnalysis/issues"
+  },
+  "homepage": "https://github.com/rdguo/PipeAnalysis",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "typescript": "^3.5.2",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "webpack": "^4.35.2"
+  }
+}
